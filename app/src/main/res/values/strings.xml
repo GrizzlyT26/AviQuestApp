@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="google_map_api_key">AIzaSyDp0__4uG-xE0T-gnbq1t4MJygHy3GHp_o</string>
+
+    //starling
+    <string name="starling">Starling</string>
+    <string name="starling_des">Cook your pasta until al dente
+\nSaute’ garlic in olive oil until fragrant
+\nAdd cream cheese, pasta cooking water, parmesan, and stir well
+\nDrain and add pasta to the skillet
+\nToss until well combined, adding some pasta water if needed</string>
+
+
+    //Tit
+    <string name="Tit">Tit</string>
+    <string name="Tit_des">The tits, chickadees, and titmice constitute the Paridae,
+        \na large family of small passerine birds which occur
+        \nmainly in the Northern Hemisphere and Africa.
+        \nMost were formerly classified in the genus Parus</string>
+
+
+    //Wrens
+    <string name="Wrens">Wrens</string>
+    <string name="Wrens_des">Wrens are a family of brown passerine
+        \nbirds in the predominantly New World family Troglodytidae.
+        \nThe family includes 88 species divided into 19 genera.
+        \nOnly the Eurasian wren occurs in the Old World, where, in Anglophone regions,
+        \nit is commonly known simply as the "wren", as it is the originator of the name.</string>
+
+
+    //eurasian_chaffinch
+    <string name="eurasian_chaffinch">Eurasian_chaffinch</string>
+    <string name="eurasian_chaffinch_des">The Eurasian chaffinch, common chaffinch,
+        \nor simply the chaffinch is a common and widespread small passerine
+        \nbird in the finch family.
+        \nThe male is brightly coloured with a blue-grey cap and rust-red underparts</string>
+
+
+
+    //bird1
+    <string name="bird1">Bird 1</string>
+    <string name="bird1_des">A songbird is a bird belonging to the suborder Passeri
+        \nof the perching birds.
+        \nAnother name that is sometimes seen as the scientific or
+        \nvernacular name is Oscines, from Latin oscen, "songbird"</string>
+
+
+    //Flinches
+    <string name="Flinches">Flinches</string>
+    <string name="flinches_DES">The true finches are small to medium-sized passerine
+        \nbirds in the family Fringillidae.
+        \nFinches generally have stout conical bills adapted
+        \nfor eating seeds and nuts and often have colourful plumage.
+        \nThey occupy a great range of habitats where they are usually resident and do not migrate</string>
+
+
+    //fries
+    <string name="green_tit">Green_tita</string>
+    <string name="green_tit_des">Tit Great tit
+        \nGreat tit
+        \nThe great tit is a passerine bird in the tit family Paridae.
+        \nIt is a widespread and common species throughout Europe,
+        \nthe Middle East, Central Asia and east across the Palearctic to the Amur River, .</string>
+</resources>
